@@ -1,1 +1,1 @@
-print('Hello Git')
+print('Hello Git no VS Code')
